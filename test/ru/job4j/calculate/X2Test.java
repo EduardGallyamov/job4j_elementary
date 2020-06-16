@@ -3,6 +3,7 @@ package ru.job4j.calculate;
 import static org.junit.Assert.assertThat;
 import static org.hamcrest.Matchers.is;
 
+import org.junit.Assert;
 import org.junit.Test;
 
 public class X2Test {
